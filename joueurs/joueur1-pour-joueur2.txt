@@ -1,0 +1,2 @@
+Fragment du code : 2048
+(Il s'agit des 4 derniers chiffres du code)
